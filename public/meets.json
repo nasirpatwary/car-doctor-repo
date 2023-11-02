@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/gvqBcBP/3.jpg",
+      "title": "Car Engine Plug",
+      "Engine": "Engine Expert",
+      "price": 19.99
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/Qdr3PXX/2.jpg",
+      "title": "Car Engine Plug",
+      "Engine": "Engine Expert",
+      "price": 29.99
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/x5mgT8S/1.jpg",
+      "title": "Car Engine Plug",
+      "Engine": "Engine Expert",
+      "price": 39.99
+    }
+]
